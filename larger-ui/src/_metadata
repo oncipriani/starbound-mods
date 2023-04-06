@@ -1,0 +1,8 @@
+{
+    "name": "larger-ui",
+    "friendlyName": "Larger User Interface",
+    "description": "Allows the UI to scale up to 3x instead of the default 2x, depending on the screen resolution.",
+    "author": "Otavio Cipriani",
+    "version": "1.0.0",
+    "link": "https://github.com/oncipriani/starbound-mods"
+}

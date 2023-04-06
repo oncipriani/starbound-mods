@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/minInterfaceScale",
+        "value": 2.0
+    },
+    {
+        "op": "replace",
+        "path": "/maxInterfaceScale",
+        "value": 3.0
+    },
+    {
+        "op": "replace",
+        "path": "/interfaceCrossoverRes",
+        "value": [ 1800, 950 ]
+    },
+    {
+        "op": "replace",
+        "path": "/mainBar/size/1",
+        "value": 200
+    }
+]
